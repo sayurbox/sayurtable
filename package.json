@@ -1,6 +1,6 @@
 {
     "name": "sayurtable",
-    "version": "0.0.4",
+    "version": "0.0.4.5",
     "description": "A simple and light table with react",
     "main": "dist/index.js",
     "keywords": [
@@ -12,5 +12,8 @@
         "reactjs"
     ],
     "author": "Sayurbox Team",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "react-js-pagination": "^3.0.2"
+    }
 }
