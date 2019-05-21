@@ -1,6 +1,6 @@
 {
     "name": "sayurtable",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A simple and light table with react",
     "main": "index.js",
     "scripts": {
