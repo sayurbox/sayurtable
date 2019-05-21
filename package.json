@@ -1,0 +1,12 @@
+{
+  "name": "sayurtable",
+  "version": "0.0.1",
+  "description": "A simple and light table with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react", "datagrid", "table", "datatable"],
+  "author": "Sayurbox Team",
+  "license": "MIT"
+}
